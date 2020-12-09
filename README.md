@@ -1,14 +1,18 @@
 ### Hello there!
 I am a Junior undergraduate from IIT Gandhinagar majoring in Electrical Engineering, minoring in robotics. Passionate about robotics and perception, embedded systems, and microelectronics. Skilled in mobile development (Flutter), and have deployed several apps to production. Love putting my skills to good use to solve real-world problems. Particularly interested in applications of engineering and robotics in every-day life.
 
-You can find me on [![LinkedIn][2.2]][2]
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://www.linkedin.com/in/praveenvenkatesh-pveen/
+<p align='center'>
+<a href="https://www.linkedin.com/in/praveenvenkatesh-pveen/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:pveenvenkatesh@gmail.com"><img height="40" src="icons/gmail.png"></a>
+</p>
+
 
 ## Things I Use
 <br>
 <p align="center">
+<img align="center" alt="Flutter" width="50" src="icons/flutter.png" />&nbsp;&nbsp;
+<img align="center" alt="Verilog" width="50" src="icons/verilog.png" />&nbsp;&nbsp;
 <img align="center" alt="Python" width="50" src="icons/python.png" />&nbsp;&nbsp;
 <img align="center" alt="C++" width="50" src="icons/cpp.png" /> &nbsp;&nbsp;
 <img align="center" alt="Linux" width="50" src="icons/linux.png" />&nbsp;&nbsp;
