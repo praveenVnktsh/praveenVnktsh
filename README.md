@@ -3,6 +3,7 @@ I am a Junior undergraduate from IIT Gandhinagar majoring in Electrical Engineer
 
 
 Check out my LinkedIn here: https://www.linkedin.com/in/praveenvenkatesh-pveen/
-<!--
-**praveenVnktsh/praveenVnktsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=praveenVnktsh.praveenVnktsh)
 
