@@ -9,5 +9,6 @@ Check out my LinkedIn here: https://www.linkedin.com/in/praveenvenkatesh-pveen/
 
 
 ![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveenVnktsh)
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=praveenVnktsh.praveenVnktsh)
 
