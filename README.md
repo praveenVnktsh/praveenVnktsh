@@ -5,5 +5,9 @@ I am a Junior undergraduate from IIT Gandhinagar majoring in Electrical Engineer
 Check out my LinkedIn here: https://www.linkedin.com/in/praveenvenkatesh-pveen/
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=praveenVnktsh.praveenVnktsh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenVnktsh)](https://github.com/praveenVnktsh/github-readme-stats)
+
+
+![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=praveenVnktsh)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=praveenVnktsh.praveenVnktsh)
 
