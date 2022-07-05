@@ -1,7 +1,7 @@
 ### Hello there!
 
 
-I'm an incoming grad student at Carengie Mellon University, Robotics Insititute. Did my undergraduation at IIT Gandhinagar in Electrical Engineering, and am passionate about building robotic systems that can make an impact on society.
+I'm an incoming grad student at Carnegie Mellon University, Robotics Insititute. Did my undergraduation at IIT Gandhinagar in Electrical Engineering, and am passionate about building robotic systems that can make an impact on society.
 
 I am always up for playing a sport, and love adventure. Reach me on LinkedIn here.
 
