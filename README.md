@@ -5,7 +5,7 @@ I'm a grad student at Carnegie Mellon University, Robotics Insititute. Did my un
 
 Currently exploring advanced perception for robots. I believe that the following will be huge in the future:
 - Human robot natural interactions
-- Multimodal robot perception
+- Multimodal robot sensing (speech (raw audio) + vision + touch).
 
 
 On an unrelated note, I'm betting on healthcare and biotech to make us immortal (I dont want to live forever though). 
