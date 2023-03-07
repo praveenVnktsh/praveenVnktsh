@@ -7,10 +7,6 @@ Currently exploring advanced perception for robots. I believe that the following
 - Human robot natural interactions
 - Multimodal robot sensing (speech (raw audio) + vision + touch).
 
-
-On an unrelated note, I'm betting on healthcare and biotech to make us immortal (I dont want to live forever though). 
-
-
 I am always up for playing a sport, and love adventure. Reach me on LinkedIn here.
 
 <a href="https://www.linkedin.com/in/praveenvnktsh/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
