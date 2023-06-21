@@ -1,6 +1,6 @@
 ### Hello there!
 
-![contribution-graph-snake](https://raw.githubusercontent.com/praveenVnktsh/praveenVnktsh/output/github-contribution-grid-snake.svg)  
+![](https://raw.githubusercontent.com/praveenVnktsh/praveenVnktsh/output/github-contribution-grid-snake.svg)  
 _<sub><sup>Generated with [Platane/snk](https://github.com/Platane/snk)</sup></sub>_
 
 I'm a grad student at Carnegie Mellon University, Robotics Insititute. Did my undergraduation at IIT Gandhinagar in Electrical Engineering, and am passionate about building robotic systems that can make an impact on society.
