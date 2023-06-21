@@ -11,7 +11,7 @@ Currently exploring advanced perception for robots. I believe that the following
 
 I am always up for playing a sport, and love adventure. Reach me on LinkedIn here.
 
-<a href="https://www.linkedin.com/in/praveenvnktsh/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
+
 
 
 Find out more on my website - <a href="https://praveenvnktsh.github.io">Praveen Venkatesh</a>
