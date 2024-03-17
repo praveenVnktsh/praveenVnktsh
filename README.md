@@ -1,6 +1,6 @@
 ### Hello there!
 
-Studying Robotics @ Carnegie Mellon Univeristy. Triple Gold Medallist + Undergrad in EECS from Indian Institute of Technology, Gandhinagar.
+Studying Robotics @ Carnegie Mellon University. Triple Gold Medallist + Undergrad in EECS from Indian Institute of Technology, Gandhinagar.
 
 Currently building robots for healthcare @auxilio-robotics 
 
