@@ -1,6 +1,6 @@
 ### Hello there!
 
-I currently work at [Mach9](https://www.mach9.io/) as a Perception Software Engineer. I love solving hard problems - be it technical or otherwise!
+I currently work at Uber AV Labs on autonomy. I love solving hard problems - be it technical or otherwise!
 
 Studied Robotics @ Carnegie Mellon University. Triple Gold Medallist + Undergrad in EECS from Indian Institute of Technology, Gandhinagar.
 
